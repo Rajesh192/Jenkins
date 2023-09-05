@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-04T23:22:04 IST" name="Suite" finished-at="2023-09-04T23:22:15 IST" duration-ms="10688">
+  <suite started-at="2023-09-05T10:34:40 IST" name="Suite" finished-at="2023-09-05T10:34:54 IST" duration-ms="14220">
     <groups>
     </groups>
-    <test started-at="2023-09-04T23:22:04 IST" name="Test" finished-at="2023-09-04T23:22:15 IST" duration-ms="10688">
+    <test started-at="2023-09-05T10:34:40 IST" name="Test" finished-at="2023-09-05T10:34:54 IST" duration-ms="14220">
       <class name="PracticeSelenium.test3">
-        <test-method signature="firefox_test()[pri:0, instance:PracticeSelenium.test3@222545dc]" started-at="2023-09-04T23:22:09 IST" name="firefox_test" description="Firefox Test" finished-at="2023-09-04T23:22:15 IST" duration-ms="5892" status="PASS">
+        <test-method signature="firefox_test()[pri:0, instance:PracticeSelenium.test3@222545dc]" started-at="2023-09-05T10:34:47 IST" name="firefox_test" description="Firefox Test" finished-at="2023-09-05T10:34:54 IST" duration-ms="6354" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firefox_test -->
       </class> <!-- PracticeSelenium.test3 -->
       <class name="PracticeSelenium.test1">
-        <test-method signature="google_test()[pri:0, instance:PracticeSelenium.test1@5b239d7d]" started-at="2023-09-04T23:22:04 IST" name="google_test" description="Chrome Test" finished-at="2023-09-04T23:22:07 IST" duration-ms="2392" status="PASS">
+        <test-method signature="google_test()[pri:0, instance:PracticeSelenium.test1@5b239d7d]" started-at="2023-09-05T10:34:40 IST" name="google_test" description="Chrome Test" finished-at="2023-09-05T10:34:45 IST" duration-ms="5380" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- google_test -->
       </class> <!-- PracticeSelenium.test1 -->
       <class name="PracticeSelenium.test2">
-        <test-method signature="firefox_test()[pri:0, instance:PracticeSelenium.test2@6ae5aa72]" started-at="2023-09-04T23:22:07 IST" name="firefox_test" description="Chrome Test" finished-at="2023-09-04T23:22:09 IST" duration-ms="2352" status="PASS">
+        <test-method signature="firefox_test()[pri:0, instance:PracticeSelenium.test2@6ae5aa72]" started-at="2023-09-05T10:34:45 IST" name="firefox_test" description="Chrome Test" finished-at="2023-09-05T10:34:47 IST" duration-ms="2439" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firefox_test -->

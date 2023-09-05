@@ -34,6 +34,9 @@
 		    <configuration>
 				<suiteXmlFiles>
 					<suiteXmlFile>testng1.xml</suiteXmlFile>
+					<systemPropertyVariables>
+						<browser>${Browser}</browser>	
+					</systemPropertyVariables>
 				</suiteXmlFiles>
 			</configuration>
 		  </plugin>
